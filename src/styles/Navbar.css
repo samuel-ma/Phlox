@@ -1,0 +1,41 @@
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{}
+
+.navlinks{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.navlinks a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.navlinks a:hover{
+    color: var(--pink);
+}
+
+.started{
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: var(--pink);
+    box-shadow: -5px 15px 30px #f4457125;
+}
+
+.started:hover{
+    cursor: pointer;
+}
+

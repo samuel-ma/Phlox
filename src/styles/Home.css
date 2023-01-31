@@ -1,0 +1,11 @@
+
+
+.home{
+    background: transparent
+    radial-gradient(closest-side at 57% 45%,#c588ff 0%,
+    #ac71ff 27%,#9059ff 59%,#7543e3 90%,
+    #582acb 190%);
+
+    padding: 30px;
+    height: 1300px;
+}

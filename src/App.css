@@ -1,0 +1,20 @@
+
+
+:root{
+    --white: #F3F4F6;
+    --black: #202020;
+    --blue: #0041FF;
+    --pink: #F44571;
+    --yellow: #FFD046;
+    --grey: #D4B7FF;
+    --grey2: #d4b7ff5b;
+}
+
+body{
+    font-family: "Inter";
+    background-color: var(--white);
+    color: var(--black);
+    margin: 0;
+    font-size: smaller;
+    height: 3000px;
+}

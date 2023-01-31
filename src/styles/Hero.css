@@ -1,0 +1,45 @@
+
+
+.hero{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.agency{
+    color: var(--yellow);
+    font-weight: bold;
+}
+
+h1{
+    font-size: 63px;
+    color: var(--white);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.many{
+    color: var(--grey);
+    margin-bottom: 50px;
+    line-height: 30px;
+}
+
+.read{
+    color: var(--white);
+    font-size: 16px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: var(--pink);
+    padding-right: 40px;
+    padding-left: 40px;
+    box-shadow: -5px 15px 30px #f4457125;
+}
+
+.read p{ 
+    margin-right: 10px;
+}
